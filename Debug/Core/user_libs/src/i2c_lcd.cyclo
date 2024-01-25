@@ -1,0 +1,14 @@
+../Core/user_libs/src/i2c_lcd.c:27:13:lcd16x2_i2c_sendCommand	2
+../Core/user_libs/src/i2c_lcd.c:54:13:lcd16x2_i2c_sendData	2
+../Core/user_libs/src/i2c_lcd.c:87:6:lcd16x2_i2c_init	3
+../Core/user_libs/src/i2c_lcd.c:138:6:lcd16x2_i2c_setCursor	2
+../Core/user_libs/src/i2c_lcd.c:157:6:lcd16x2_i2c_1stLine	1
+../Core/user_libs/src/i2c_lcd.c:164:6:lcd16x2_i2c_2ndLine	1
+../Core/user_libs/src/i2c_lcd.c:172:6:lcd16x2_i2c_TwoLines	1
+../Core/user_libs/src/i2c_lcd.c:176:6:lcd16x2_i2c_OneLine	1
+../Core/user_libs/src/i2c_lcd.c:184:6:lcd16x2_i2c_cursorShow	2
+../Core/user_libs/src/i2c_lcd.c:199:6:lcd16x2_i2c_clear	1
+../Core/user_libs/src/i2c_lcd.c:209:6:lcd16x2_i2c_display	2
+../Core/user_libs/src/i2c_lcd.c:224:6:lcd16x2_i2c_shiftRight	2
+../Core/user_libs/src/i2c_lcd.c:235:6:lcd16x2_i2c_shiftLeft	2
+../Core/user_libs/src/i2c_lcd.c:246:6:lcd16x2_i2c_printf	3

@@ -1,0 +1,12 @@
+../Core/Src/main.c:98:5:main	1
+../Core/Src/main.c:154:6:SystemClock_Config	4
+../Core/Src/main.c:198:6:button_hundler	5
+../Core/Src/main.c:235:6:homeScreen	27
+../Core/Src/main.c:393:6:adm_mode	10
+../Core/Src/main.c:472:6:sub_mode	10
+../Core/Src/main.c:539:6:mpesa	9
+../Core/Src/main.c:595:6:mpesaPaymentMenu	13
+../Core/Src/main.c:683:6:payment	25
+../Core/Src/main.c:824:6:resetButtons	1
+../Core/Src/main.c:832:6:sleep_mode	2
+../Core/Src/main.c:848:6:Error_Handler	1
